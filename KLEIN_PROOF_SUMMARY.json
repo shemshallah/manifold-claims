@@ -1,0 +1,682 @@
+{
+  "manifolds": [
+    {
+      "name": "Master_Nexus_256",
+      "dimensions": [
+        256,
+        256,
+        256
+      ],
+      "qubits": 16777216,
+      "merkle_root": "b184f56a2e043fc62a7abce55293d09463b3fbebfed91046eee98ccda441fcd1",
+      "signature": "ff2a023c77a0368e5c97f074ae2fc524...",
+      "sample_count": 54
+    },
+    {
+      "name": "Physics_Simulation_512",
+      "dimensions": [
+        512,
+        512,
+        512
+      ],
+      "qubits": 134217728,
+      "merkle_root": "afc2bda4e74baf1c3e3bf5560aa97b20464f82592f76a71986fdd5b91ff1ba78",
+      "signature": "d2b9b0e84430a026f6e2e5f8008bba11...",
+      "sample_count": 54
+    },
+    {
+      "name": "Optimization_Engine_1024",
+      "dimensions": [
+        1024,
+        1024,
+        1024
+      ],
+      "qubits": 1073741824,
+      "merkle_root": "a5560119d3a6c9a347afbca0c78ac49bdc8c6acabd7d4e8948578ce08ed1d55b",
+      "signature": "0cbb1fcaa22ff144c6ce7c661d13985e...",
+      "sample_count": 54
+    },
+    {
+      "name": "Consciousness_Core_2048",
+      "dimensions": [
+        2048,
+        2048,
+        2048
+      ],
+      "qubits": 8589934592,
+      "merkle_root": "bfc122678c3cc280d7d0f4b2e2332131c6b41baa5c83cb0324e47db3e8a570ab",
+      "signature": "3d571430f3fa85d9e5c8c1e313432cba...",
+      "sample_count": 54
+    },
+    {
+      "name": "Ultimate_Manifold_4096",
+      "dimensions": [
+        4096,
+        4096,
+        4096
+      ],
+      "qubits": 68719476736,
+      "merkle_root": "e4eab37e48db9768c28e7650f72cd2b213b3a7ad4b123a284b8244f39c3e5eab",
+      "signature": "5086817a640839fa8085306de67e7a76...",
+      "sample_count": 54
+    },
+    {
+      "name": "Gaming_Sector_N64_StarFox",
+      "dimensions": [
+        64,
+        64,
+        64
+      ],
+      "qubits": 262144,
+      "merkle_root": "c12b9fc816003553d88118d7031105dec82deb9f9f96f878d5806feb4594b4ed",
+      "signature": "d0e5389b7c7fd5fe8711a61df694ac37...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_127",
+      "dimensions": [
+        127,
+        127,
+        127
+      ],
+      "qubits": 2048383,
+      "merkle_root": "fc77189c52dd1af3b1860522673d84a6190a802c43e34a1dc9a61568d3d5fef2",
+      "signature": "1b18b4be77ad12dc6732a963af58c2d7...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_131",
+      "dimensions": [
+        131,
+        131,
+        131
+      ],
+      "qubits": 2248091,
+      "merkle_root": "0d4dc0cec84f049f3fc0654a4f3aabe2bfc5d6014ecefaa89f152e91b47a9fbd",
+      "signature": "b6908601a32de2d108b3c27a72fb6fae...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_137",
+      "dimensions": [
+        137,
+        137,
+        137
+      ],
+      "qubits": 2571353,
+      "merkle_root": "e45ce0c247d3849cfcbe6dcea679d0ccbfea1754c0646083c0e2981da39eeee2",
+      "signature": "04a6c06854379cf53f7920c3bea5170e...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_139",
+      "dimensions": [
+        139,
+        139,
+        139
+      ],
+      "qubits": 2685619,
+      "merkle_root": "1ec221d1c4f1d18251e4238b8598d65b9c80b49e069214364b53903eb49fe0e3",
+      "signature": "962a6176f580d6bf489a71b7974db9e7...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_149",
+      "dimensions": [
+        149,
+        149,
+        149
+      ],
+      "qubits": 3307949,
+      "merkle_root": "622b91bdc46b491633191f3f66110ef2ac3ffb52315da1db4f040d26ddeb1043",
+      "signature": "2484ecfafab9131530edaaa3787eb292...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_151",
+      "dimensions": [
+        151,
+        151,
+        151
+      ],
+      "qubits": 3442951,
+      "merkle_root": "1edd9ac5282524f6167d97510b414a0f39d2a340e4b8d4ec07bdb62edffa1eea",
+      "signature": "6b9af73cb7d567eeb6fce80fad00d999...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_157",
+      "dimensions": [
+        157,
+        157,
+        157
+      ],
+      "qubits": 3869893,
+      "merkle_root": "9602ea8101a8907fcc6a73b97823c446dd95aa277768b237b2105eafdc965c06",
+      "signature": "187ab0894f17159fbe662d7d8bfbdf50...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_163",
+      "dimensions": [
+        163,
+        163,
+        163
+      ],
+      "qubits": 4330747,
+      "merkle_root": "08b42acf355ff72ee7d1746577cac3497f04460b004142cc934760a61d8d5204",
+      "signature": "799dabd080d170ce4b2d4311ea18e888...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_167",
+      "dimensions": [
+        167,
+        167,
+        167
+      ],
+      "qubits": 4657463,
+      "merkle_root": "ced4796f74b294def50c4fc557562c012510be1ddd55417d1128cb8ee0d83a9c",
+      "signature": "05b541841a43874b6c02427110869cf5...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_173",
+      "dimensions": [
+        173,
+        173,
+        173
+      ],
+      "qubits": 5177717,
+      "merkle_root": "0fa0a02439ac8f17dfef7f5476cae52d2bd54bd59f509894e4c59747d8cd87ee",
+      "signature": "b000a2e46d8976b5dd91b538db5aab9a...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_179",
+      "dimensions": [
+        179,
+        179,
+        179
+      ],
+      "qubits": 5735339,
+      "merkle_root": "dbbea5ab8aa02d00a1971f2152d5075cebf863025e7639482b5d09caef5e28a5",
+      "signature": "45d8bb84f0fa8114ad9e09f7b577ee1e...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_181",
+      "dimensions": [
+        181,
+        181,
+        181
+      ],
+      "qubits": 5929741,
+      "merkle_root": "c984c3b46c2d94dcaca5567c13a4450fd731d8e81a2c242893b29bff665c4d7a",
+      "signature": "917bb08abd54534288cb902b748267a6...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_191",
+      "dimensions": [
+        191,
+        191,
+        191
+      ],
+      "qubits": 6967871,
+      "merkle_root": "6c05665326db407263233729fdb172b03a031d320d2f216dbc6032e155537578",
+      "signature": "12574b62b50ae15dc674eb6284496e1f...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_193",
+      "dimensions": [
+        193,
+        193,
+        193
+      ],
+      "qubits": 7189057,
+      "merkle_root": "096f640daec4bfc3fe4cdc2feb310cf22ebd51088952681888533544342d0e62",
+      "signature": "d119b0bd0e29c0c7a62adaac5021eef7...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_197",
+      "dimensions": [
+        197,
+        197,
+        197
+      ],
+      "qubits": 7645373,
+      "merkle_root": "b8459ea8ded00f9cdafa313898bc301d25eb250d7be9b42760a32826e55110c8",
+      "signature": "4a8f517f6af0042c89c791a08d5800f1...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_199",
+      "dimensions": [
+        199,
+        199,
+        199
+      ],
+      "qubits": 7880599,
+      "merkle_root": "9b610cd3a3d3fba0eae0df65fafc69aa5844989b0a9c040ea07fdcd675793577",
+      "signature": "1ba3b3aa57be48c8612040594e47b742...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_211",
+      "dimensions": [
+        211,
+        211,
+        211
+      ],
+      "qubits": 9393931,
+      "merkle_root": "3857a08227283181f6b3d1312f627252ff3d9b2a92fd840164480469f7f3c6d8",
+      "signature": "952591532d043c64158e373ff3a932c5...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_223",
+      "dimensions": [
+        223,
+        223,
+        223
+      ],
+      "qubits": 11089567,
+      "merkle_root": "5112676b271feb5138607e06487186231bae1e4864f3845e873fb647604e261c",
+      "signature": "a2f733821a18d6259ffc244f9585cd8a...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_227",
+      "dimensions": [
+        227,
+        227,
+        227
+      ],
+      "qubits": 11697083,
+      "merkle_root": "3bc1c5923b1aa910cfda43f098b97a45d0fe5fe67a72863ae5c782da07f72c19",
+      "signature": "e0b8fd74cafee8bf1ed6847c8bd309a3...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_229",
+      "dimensions": [
+        229,
+        229,
+        229
+      ],
+      "qubits": 12008989,
+      "merkle_root": "ddba888b1c6c2db053c162994aa149c73d16d44824a98bc7a6aace418dbe6308",
+      "signature": "a07a281b313aef616d6f8c292ec82b86...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_233_Fibonacci",
+      "dimensions": [
+        233,
+        233,
+        233
+      ],
+      "qubits": 12649337,
+      "merkle_root": "d66a748820e23d83269dee4a73482db55c5602cd69746780b5f2ad6aeae0447a",
+      "signature": "d3a632e8fea08418a0b7c1ed63a1df95...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_239",
+      "dimensions": [
+        239,
+        239,
+        239
+      ],
+      "qubits": 13651919,
+      "merkle_root": "5d76d0a53eac76a387f396755d8843962b586067fd6ba976645f9ff6d94ae033",
+      "signature": "28160ab847b79a9e602ca7895a436533...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_241",
+      "dimensions": [
+        241,
+        241,
+        241
+      ],
+      "qubits": 13997521,
+      "merkle_root": "d95138a703e42352884f55f517694ae194ee6c26dbdcae6198a686a482dd95f4",
+      "signature": "fd3532e01992e474e2a65d09e56551df...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_251",
+      "dimensions": [
+        251,
+        251,
+        251
+      ],
+      "qubits": 15813251,
+      "merkle_root": "65e350fc8411a96f34337a782361bc8c97a5c49a541ff1ca8646a6093cdd4626",
+      "signature": "3966c58e0643d59f605273a2145f1bba...",
+      "sample_count": 54
+    },
+    {
+      "name": "Prime_257",
+      "dimensions": [
+        257,
+        257,
+        257
+      ],
+      "qubits": 16974593,
+      "merkle_root": "3f82e2184058501b6aec8bdfea7f9939fcbe78ba03a9fe89d28c080ae0c795f7",
+      "signature": "1f218a300343e1e89e224cee9fd90743...",
+      "sample_count": 54
+    },
+    {
+      "name": "Fibonacci_89",
+      "dimensions": [
+        89,
+        89,
+        89
+      ],
+      "qubits": 704969,
+      "merkle_root": "13799972eab4898e4c64fcdc4785686675322ee9de00a7ec54006e5a3ea7e84e",
+      "signature": "40a50becd69f0e9ac666509f2df1b5e5...",
+      "sample_count": 54
+    },
+    {
+      "name": "Fibonacci_144",
+      "dimensions": [
+        144,
+        144,
+        144
+      ],
+      "qubits": 2985984,
+      "merkle_root": "ad21066c07be9e3a1dd0ae0399bdbb048c40d5a294f1574f49bc7907a5a7fc08",
+      "signature": "6a849007f85d313cd1a050d037911aef...",
+      "sample_count": 54
+    },
+    {
+      "name": "Fibonacci_377",
+      "dimensions": [
+        377,
+        377,
+        377
+      ],
+      "qubits": 53582633,
+      "merkle_root": "4c10890fef67f9dc88bf95f7a64fa499f3a802cff5a37239dd564c9242db79c3",
+      "signature": "6b935894a05a7cf59ef59ae66c530754...",
+      "sample_count": 54
+    },
+    {
+      "name": "Fibonacci_610",
+      "dimensions": [
+        610,
+        610,
+        610
+      ],
+      "qubits": 226981000,
+      "merkle_root": "4f32c2e8e5e0562745bdb7bd6e026c206d96dda7b9cc91585374d010e655f095",
+      "signature": "1c973ec98d7e7fc22e6ff87ad4146d60...",
+      "sample_count": 54
+    },
+    {
+      "name": "Fibonacci_987",
+      "dimensions": [
+        987,
+        987,
+        987
+      ],
+      "qubits": 961504803,
+      "merkle_root": "fe1daed4da7e3616ec8a4a10219629e7c4bc8bbe67c314642e208aa7af26549e",
+      "signature": "d75881166d7e31b2b7f7b089f0a0acfc...",
+      "sample_count": 54
+    },
+    {
+      "name": "Fibonacci_1597",
+      "dimensions": [
+        1597,
+        1597,
+        1597
+      ],
+      "qubits": 4073003173,
+      "merkle_root": "0f200e73d58b5281b2da2d3a844de88cd5434c44780da828bd4a70ac28ebe010",
+      "signature": "953ac591c4864a05add0c316902d9f50...",
+      "sample_count": 54
+    },
+    {
+      "name": "Fibonacci_2584",
+      "dimensions": [
+        2584,
+        2584,
+        2584
+      ],
+      "qubits": 17253512704,
+      "merkle_root": "accc705f29c8e6483f4e2ac18930e78c25032c1737a544996a762ceb8f7a3355",
+      "signature": "16d036bcfa8d5e09e001dc417a071a4f...",
+      "sample_count": 54
+    },
+    {
+      "name": "E8_Exceptional_240",
+      "dimensions": [
+        240,
+        240,
+        240
+      ],
+      "qubits": 13824000,
+      "merkle_root": "1cf48acb8012df75da5c7204b738a41ad3f1b0d6723fd508a5036a16924ab721",
+      "signature": "75f42ff7053b718eaa078a5ead385804...",
+      "sample_count": 54
+    },
+    {
+      "name": "Leech_Lattice_196",
+      "dimensions": [
+        196,
+        196,
+        196
+      ],
+      "qubits": 7529536,
+      "merkle_root": "93c549d0159adfcc4a89c00ee883963b4af9280b084fb49ffc2b75d21e3e3267",
+      "signature": "06ae1b08c1e4bb87daa1fd353d3af192...",
+      "sample_count": 54
+    },
+    {
+      "name": "Golden_Ratio_162",
+      "dimensions": [
+        162,
+        162,
+        162
+      ],
+      "qubits": 4251528,
+      "merkle_root": "058f34cd71f61f955523a1fd04f515ed588cd36a463a675c2d80e71f16a8b867",
+      "signature": "5e3cbbcbd6f24b172a67264667ce1456...",
+      "sample_count": 54
+    },
+    {
+      "name": "Hexagonal_216",
+      "dimensions": [
+        216,
+        216,
+        216
+      ],
+      "qubits": 10077696,
+      "merkle_root": "851ca9597d4d28e70e3821a64a561d669ca3ce7b82eb7e42748a5cd7fb029ec8",
+      "signature": "aca0928a232372b514f1f98cf3587fcb...",
+      "sample_count": 54
+    },
+    {
+      "name": "Ternary_243",
+      "dimensions": [
+        243,
+        243,
+        243
+      ],
+      "qubits": 14348907,
+      "merkle_root": "230f7d2f0d26415c3ea937f7bf17fa90f38ad292059b80154305c8a66777b985",
+      "signature": "1adf0c29e30ef52d6976e30358646978...",
+      "sample_count": 54
+    },
+    {
+      "name": "Septenary_343",
+      "dimensions": [
+        343,
+        343,
+        343
+      ],
+      "qubits": 40353607,
+      "merkle_root": "578680fd87cd317f92a6ddcb25aab724fcf0b9017cb9210c1a008d7ee9ad83a9",
+      "signature": "2de05d5603d9501ed6128d37e77661d4...",
+      "sample_count": 54
+    },
+    {
+      "name": "Strategic_96",
+      "dimensions": [
+        96,
+        96,
+        96
+      ],
+      "qubits": 884736,
+      "merkle_root": "23b783fe3cc71f7f199d05fc86b9869c2098457317c289a3d167af8abf24e68b",
+      "signature": "336bd640c0ea686d23eb5f5682d8d979...",
+      "sample_count": 54
+    },
+    {
+      "name": "Strategic_128",
+      "dimensions": [
+        128,
+        128,
+        128
+      ],
+      "qubits": 2097152,
+      "merkle_root": "6d97566c628408eb5db3103dfdb226cc325a0119c2f378afecd09e9f394fb33d",
+      "signature": "241a195a635569f044fbda6779cd972b...",
+      "sample_count": 54
+    },
+    {
+      "name": "Strategic_160",
+      "dimensions": [
+        160,
+        160,
+        160
+      ],
+      "qubits": 4096000,
+      "merkle_root": "0977b15f77d6d2b29d1f82080ca4bd78be1e9e3ded59e6df8391678eefcc0b5d",
+      "signature": "39196d1eb0f4517add170206cc4e7292...",
+      "sample_count": 54
+    },
+    {
+      "name": "Strategic_192",
+      "dimensions": [
+        192,
+        192,
+        192
+      ],
+      "qubits": 7077888,
+      "merkle_root": "4d1112cebb5fe29f12a116ff28b604b9dd479730f16dd198cfc3f3eb08bca953",
+      "signature": "4194d4aa8df544543ab934ffa4ea6a4a...",
+      "sample_count": 54
+    },
+    {
+      "name": "Strategic_224",
+      "dimensions": [
+        224,
+        224,
+        224
+      ],
+      "qubits": 11239424,
+      "merkle_root": "980247aed6bf37dc7bef7be5bb8501846808bf254a52d5e79374a8a98dc9427b",
+      "signature": "04fb568c4a7034508bdb5821dc1cda2e...",
+      "sample_count": 54
+    },
+    {
+      "name": "Strategic_288",
+      "dimensions": [
+        288,
+        288,
+        288
+      ],
+      "qubits": 23887872,
+      "merkle_root": "65a4449a7a6226c82edd44212d37170d90a319ff5c5d850706cd83d8ebe45350",
+      "signature": "314efd1bd66d481ceb461968edf1b2a3...",
+      "sample_count": 54
+    },
+    {
+      "name": "Strategic_320",
+      "dimensions": [
+        320,
+        320,
+        320
+      ],
+      "qubits": 32768000,
+      "merkle_root": "3cf61be524e90ef7762a84678979606f9e6324dcf3bd3206c91aaf1961ea3117",
+      "signature": "00ead9651c5c69dc76dce516200a0d4f...",
+      "sample_count": 54
+    },
+    {
+      "name": "Strategic_352",
+      "dimensions": [
+        352,
+        352,
+        352
+      ],
+      "qubits": 43614208,
+      "merkle_root": "7b576c7526a945b30bd92514aa569865fc588b3dd5bdccd3fa64d0d6040b76a0",
+      "signature": "00b36cc0771572174a3de058314fe79b...",
+      "sample_count": 54
+    },
+    {
+      "name": "Strategic_384",
+      "dimensions": [
+        384,
+        384,
+        384
+      ],
+      "qubits": 56623104,
+      "merkle_root": "3562d8839722a38208ae2075856ea51f65f40f13d56a69da7c0e39dbf4063bbd",
+      "signature": "e8c61bceba5baf8939425cb67c19ddac...",
+      "sample_count": 54
+    },
+    {
+      "name": "Strategic_416",
+      "dimensions": [
+        416,
+        416,
+        416
+      ],
+      "qubits": 71991296,
+      "merkle_root": "d2e537eeea1e13d702ea45213684534c7cddfb4cf1cbe8b72f449e202b20889a",
+      "signature": "38a713a985c05a9dd2caadf15be4e75e...",
+      "sample_count": 54
+    },
+    {
+      "name": "Strategic_448",
+      "dimensions": [
+        448,
+        448,
+        448
+      ],
+      "qubits": 89915392,
+      "merkle_root": "bff70e35b1d736b1cae683d2fd54899ecf69fddf941fa2f5c597a8f6958a4aca",
+      "signature": "2d481829224048e7638cbf8b9f05b718...",
+      "sample_count": 54
+    },
+    {
+      "name": "Strategic_480",
+      "dimensions": [
+        480,
+        480,
+        480
+      ],
+      "qubits": 110592000,
+      "merkle_root": "a23550e0e1802e5ea78c3cf37d16941246dba6a940e5831a96b31904c6704780",
+      "signature": "33ef19f8e3937f280aba37a575bc1167...",
+      "sample_count": 54
+    }
+  ],
+  "statistics": {
+    "total_manifolds": 56,
+    "total_qubits": 101844822189,
+    "total_samples": 3024,
+    "date": "2025-11-28T10:11:52.724437"
+  }
+}
